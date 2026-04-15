@@ -3,7 +3,7 @@
 <!-- ===== HEADER ===== -->
 
 <h1 align="center">Hi 👋, I'm Yabsira Zenebe</h1>
-<h3 align="center">Frontend Developer • AI Enthusiast • Building Real Products</h3>
+<h3 align="center">Frontend Developer • Tech Enthusiast  • AI Enthusiast • Building Real Products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+%7C+Next.js+Developer;AI-powered+Applications;Mobile+Apps+with+React+Native;Building+products+that+matter&center=true&width=500&height=45">
