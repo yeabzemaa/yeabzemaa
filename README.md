@@ -61,22 +61,22 @@
 
 ### 🔹 Sebeze E-Comm
 
-> Full-featured e-commerce platform with modern UI and scalable frontend architecture
+> E-commerce platform focused on local products, enabling users to discover and purchase items from local sellers through a modern and scalable frontend
 > 🔗 [Live Demo](#) | [Repository](#)
 
 ### 🔹 Moment App
 
-> Mobile app focused on user experience and real-time interactions
+> Productivity-focused mobile app designed to reduce social media overuse and help users stay focused through better time management and usage awareness
 > 🔗 [Live Demo](#) | [Repository](#)
 
 ### 🔹 Rentry
 
-> Lightweight platform with clean UI and fast performance
+> Rental platform for electronics that allows users to try devices before purchasing, improving buying decisions through hands-on experience
 > 🔗 [Live Demo](#) | [Repository](#)
 
 ### 🔹 Adulis
 
-> AI-powered application solving real-world problems
+> application focused on delivering local, real-world solutions tailored to community needs
 > 🔗 [Live Demo](#) | [Repository](#)
 
 ---
