@@ -2,7 +2,7 @@
 
 <!-- ===== HEADER ===== -->
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Yabsira Zenebe</h1>
 <h3 align="center">Frontend Developer • AI Enthusiast • Building Real Products</h3>
 
 <p align="center">
